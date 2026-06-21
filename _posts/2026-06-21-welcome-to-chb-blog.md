@@ -3,6 +3,7 @@ title: "CHB Blog를 시작합니다"
 date: 2026-06-21 00:00:00 +0900
 categories: [Blog, Notice]
 tags: [github-pages, jekyll, chirpy]
+math: true
 ---
 
 통계와 데이터 분석 과정에서 배운 내용과 실무에서 유용했던 방법을 정리하기 위해
@@ -29,6 +30,8 @@ print(sample_mean(observations))
 ```
 
 ## LaTeX 수식 예시
+
+표본평균은 $\bar{x}$로 정의합니다.
 
 표본 평균은 다음과 같이 표현할 수 있습니다.
 
