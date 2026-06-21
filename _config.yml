@@ -3,10 +3,11 @@ description: "Statistics, data science, and practical analysis notes"
 theme: minima
 
 url: "https://hangbeumcho.github.io"
-baseurl: "/chb.github.io"
+baseurl: ""
 
 author:
   name: "Hangbeum Cho"
 
 markdown: kramdown
 
+theme: minima
