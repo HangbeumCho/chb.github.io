@@ -14,16 +14,7 @@ math: true
 toc: true
 ---
 
----
-title: "Welch's t-test: 등분산 가정이 깨졌을 때의 평균 비교"
-date: YYYY-MM-DD
-tags:
-  - Statistics
-  - Hypothesis Test
-  - t-test
-  - Welch Test
-  - Applied Statistics
----
+
 
 # Welch's t-test: 등분산 가정이 깨졌을 때의 평균 비교
 
