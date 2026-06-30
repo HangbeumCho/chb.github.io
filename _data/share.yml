@@ -16,11 +16,11 @@ platforms:
 
   - type: Notice
     icon: "fa-solid fa-scale-balanced"
-    link: "/NOTICE.md"
+    link: "https://github.com/HangbeumCho/HangbeumCho.github.io/blob/main/NOTICE.md"
 
   - type: License
     icon: "fa-solid fa-file-contract"
-    link: "/LICENSE"
+    link: "https://github.com/HangbeumCho/HangbeumCho.github.io/blob/main/LICENSE"
 
   # Uncomment below if you need to.
   #
