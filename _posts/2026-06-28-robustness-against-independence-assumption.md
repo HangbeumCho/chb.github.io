@@ -1,5 +1,5 @@
 ---
-title: "Robustnetss against independence assumption : 독립성은 왜 표준오차를 결정하는가?"
+title: "Robustness against independence assumption : 독립성은 왜 표준오차를 결정하는가?"
 date: 2026-06-28 23:00:00 +0900
 categories:
   - Statistics
